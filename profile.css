@@ -1,0 +1,59 @@
+body{
+    background-color:antiquewhite
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    color:blue
+}
+.box{
+    height:900px;
+    width:800px;
+    background-color:white;
+    border:5px solid darkblue;
+    border-style:dashed;
+}
+#gar{
+    color:red;
+    text-align:center;
+}
+img{
+    height:150px;
+    width:200px;
+    border:5px solid black;
+    border-radius:50%;
+}
+u{
+    color:black;
+}
+.head{
+    color:black;
+    font-family:cursive;
+    text-align:center;
+}
+.box2{
+    border:5px solid green;
+    background-color:aliceblue;
+    height:400px;
+    width:650px;
+    border-style:double;
+}
+strong{
+    font-size:30px;
+    color:red;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+}
+.items{
+    font-family:oswald;
+    font-size:30px;
+    
+    color:blueviolet;
+}
+.quote{
+    text-align:center;
+    font-size:25px;
+    font-family:cursive;
+    color:darkmagenta
+}
+  
